@@ -1,0 +1,4 @@
+*.pyc
+api_key.txt
+config.py
+credentials.py
